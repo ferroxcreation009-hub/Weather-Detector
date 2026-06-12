@@ -16,7 +16,7 @@ that fetches real-time weather data using the OpenWeatherMap API.
 - OpenWeatherMap API
 
 ## Live Demo
-https://ferroxcreation009-hub.github.io/Weather-Detector/
+https://ferroxcreation009-hub.github.io/Weather-Detector/java-script/index.html
 
 ## Linkdln
 [Ankush Khan]https://www.linkedin.com/in/ankush-khan-6a6219411/
