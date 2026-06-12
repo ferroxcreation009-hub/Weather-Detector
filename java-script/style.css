@@ -5,7 +5,7 @@
     font-family: poppins, sans-serif;
 }
 body{
-    background-image: url("world.jpg");
+    background-image: url("World.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -15,7 +15,8 @@ body{
 .card{
     width:500px;
     height: auto;
-    background: linear-gradient(135deg, #0704657a, #010d01eb);
+   background: linear-gradient(135deg, #060362ac, #010d01c8);
+
     color: azure;
     margin: 100px auto;
     border-radius: 20px;
