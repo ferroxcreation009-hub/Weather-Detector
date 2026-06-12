@@ -19,7 +19,7 @@ that fetches real-time weather data using the OpenWeatherMap API.
 https://ferroxcreation009-hub.github.io/Weather-Detector/
 
 ## Linkdln
-https://www.linkedin.com/in/ankush-khan-6a6219411/
+[Ankush Khan]https://www.linkedin.com/in/ankush-khan-6a6219411/
 
 ## Setup
 1. Clone the repo
